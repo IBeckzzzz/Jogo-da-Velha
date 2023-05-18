@@ -18,15 +18,15 @@ Detecção de vitória: O programa verifica automaticamente se algum jogador ven
 
 
 	1 - Clone este repositório em seu computador:
-<div>
+
 bash
 git clone https://github.com/IBeckzzzz/Jogo-da-Velha.git 
-</div>
+
 	2 - Navegue até o diretório do projeto:
-<div>
+
 bash
 cd Jogo-da-Velha 
-	</div>
+	
 	3 - Abra o arquivo index.html em seu navegador.
 
 	4 - O jogo será exibido na página e você poderá começar a jogar clicando nas células do tabuleiro.
